@@ -4,7 +4,7 @@
  *      *** Do not modify ! ***
  *
  * Project: 'C_04_Timer_PWM' 
- * Target:  'Target 1' 
+ * Target:  'STM32F401RE' 
  */
 
 #ifndef RTE_COMPONENTS_H
